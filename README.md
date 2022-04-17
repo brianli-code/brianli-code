@@ -1,6 +1,6 @@
 ﻿# Hello! I'm Brian.
 
-#  👨🏻‍💻  About Me 
+###  👨🏻‍💻  About Me 
 
 - 👨‍🎓I'm currently a first-year computer science major at UC Davis.
 - 💻 I'm familiar with C, C++, HTML5, CSS, and JavaScript.

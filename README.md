@@ -1,4 +1,4 @@
-﻿# Hello! I'm Brian.
+# 👋 Hello! I'm Brian.
 
 ###  👨🏻‍💻  About Me 
 

@@ -2,7 +2,7 @@
 
 ###  👨🏻‍💻  About Me 
 
-- 👨‍🎓 First-year computer science major at UC Davis
+- 👨‍🎓 Second-year computer science major at UC Davis
 - 💻 Familiar with C, C++, HTML, CSS, and JavaScript
-- :open_book: Currently learning React and Python
+- :open_book: Currently learning React, Python, TypeScript, and more!
 - 🌉 Based in San Francisco

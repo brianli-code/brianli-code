@@ -2,8 +2,6 @@
 
 ###  👨🏻‍💻  About Me 
 
-- 👨‍🎓 Computer Science major at UC Davis
-- 🧠 Neuroscience minor
-- 💻 Familiar with Python, R, and C++
-- 🤖 Interested in ML/ AI, deep learning, and computational neuroscience
+- 👨‍🎓 CS & Neuroscience minor @ UC Davis
+- 🤖 Interested in ML/ AI and computational neuroscience
 - 🌉 Based in San Francisco

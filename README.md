@@ -4,4 +4,3 @@
 
 - 👨‍🎓 CS & Neuroscience minor @ UC Davis
 - 🤖 Interested in ML/ AI and computational neuroscience
-- 🌉 Based in San Francisco

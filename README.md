@@ -2,5 +2,5 @@
 
 ###  👨🏻‍💻  About Me 
 
-- 👨‍🎓 CS & Neuroscience minor @ UC Davis
+- 👨‍🎓 CS & Neuroscience @ UC Davis
 - 🤖 Interested in ML/ AI and computational neuroscience
